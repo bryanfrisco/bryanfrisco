@@ -72,8 +72,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">I believe consistency beats talent. As an IT student, I’m constantly learning, experimenting, and refining my skills to become a better developer every day.</p>
 
 ###
@@ -93,9 +91,20 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="136" height="33" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="136" height="33" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="136" height="33" alt="instagram logo"  />
+  <!-- Gmail -->
+  <a href="mailto:bryanfrisco24@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="136" height="33" alt="gmail logo" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6285158903321" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="136" height="33" alt="whatsapp logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/bryanfrisco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="136" height="33" alt="instagram logo" />
+  </a>
 </div>
 
 ###
